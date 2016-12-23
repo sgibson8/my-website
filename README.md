@@ -2,6 +2,4 @@
 
 Adding some more text to file by SueG
 
-Edit on example branch
-
-Adding some more text locally.
+Updates made on master on GitHub before rebase
